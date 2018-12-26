@@ -2,7 +2,7 @@ class ApplicationController < ActionController::Base
 <<<<<<< HEAD
   protect_from_forgery with: :exception
 end
-#comentario pra testar github
+#comentario testar github
 =======
 	protect_from_forgery with: :exception
 
