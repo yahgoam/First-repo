@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sample_app",
+=======
+  "name": "hello",
+>>>>>>> a32158d8eec1f37982af125d1ef6353d31a53d03
   "private": true,
   "dependencies": {}
 }

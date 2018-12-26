@@ -29,6 +29,9 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+<<<<<<< HEAD
 
 # Ignore Spring files.
 /spring/*.pid
+=======
+>>>>>>> a32158d8eec1f37982af125d1ef6353d31a53d03
